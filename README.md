@@ -1,1 +1,2 @@
-N puzzle solver using python
+AI: N puzzle solver using python
+
